@@ -10,4 +10,4 @@ Hi! I'm Abner, from Indonesia
 🌱 I’m currently learning React
 
 I've learned:<br>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" href="https://discord.gg/qjzm8CGG3S" />
+<a href="https://discord.gg/qjzm8CGG3S"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" onClick="https://discord.gg/qjzm8CGG3S" /></a>

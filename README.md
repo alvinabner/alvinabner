@@ -1,4 +1,4 @@
-Hi! I'm Abner, from Indonesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi! I'm Abner, from Indonesia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 - I’m currently learning React
 

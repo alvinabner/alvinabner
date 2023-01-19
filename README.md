@@ -4,7 +4,7 @@
 - I'm currently learning React and Laravel
 
 <h4>Languages:<br></h4>
-<span><img src="https://img.shields.io/badge/-Python-000?&logo=Golang" /><img src="https://img.shields.io/badge/-Python-000?&logo=Python" /> <img src="https://img.shields.io/badge/-Javascript-000?&logo=Javascript" /><img src="https://img.shields.io/badge/-PHP-000?&logo=PHP" /><img src="https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=663A82" /></span>
+<span><img src="https://img.shields.io/badge/-Golang-000?&logo=Go" /><img src="https://img.shields.io/badge/-Python-000?&logo=Python" /> <img src="https://img.shields.io/badge/-Javascript-000?&logo=Javascript" /><img src="https://img.shields.io/badge/-PHP-000?&logo=PHP" /><img src="https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=663A82" /></span>
 
 <h4>Technologies:<br></h4>
 <span><img src="https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap" /><img src="https://img.shields.io/badge/-NodeJS-000?&logo=node.js" /></span>

@@ -1,9 +1,9 @@
 <h2>Hi.. I'm Abner <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /></h3>
 
 - I'm a Collage Student
-- I'm 21 y.o.
-- I'm currently learning Golang and Backend
-- Interested in Frontend and Backend
+- I'm 22 y.o.
+- Learning Kotlin...
+- Interested in Frontend, Backend, and Mobile Dev
 
 <h4>Languages:<br></h4>
 <span><img src="https://img.shields.io/badge/-Golang-000?&logo=Go" /><img src="https://img.shields.io/badge/-Python-000?&logo=Python" /> <img src="https://img.shields.io/badge/-Javascript-000?&logo=Javascript" /><img src="https://img.shields.io/badge/-PHP-000?&logo=PHP" /><img src="https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=663A82" /></span>

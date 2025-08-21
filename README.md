@@ -19,5 +19,6 @@ You can reach me at:<br>
 <a href="https://discord.gg/qjzm8CGG3S"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:alvinabnert@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=alvinabner&amp;hide_title=false&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;line_height=21&amp;text_color=000&amp;icon_color=000&amp;bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&amp;theme=graywhite" style="max-width: 100%;"> 
- 
+<!-- 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=alvinabner&amp;hide_title=false&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;line_height=21&amp;text_color=000&amp;icon_color=000&amp;bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&amp;theme=graywhite" style="max-width: 100%;">  
+-->

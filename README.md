@@ -2,7 +2,7 @@
 
 - I'm a Collage Student
 - I'm 22 y.o.
-- Learning Kotlin...
+- Currently Learning Golang and Kotlin...
 - Interested in Frontend, Backend, and Mobile Dev
 
 <h4>Languages:<br></h4>
